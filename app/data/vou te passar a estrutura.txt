@@ -1,0 +1,223 @@
+vou te passar a estrutura
+
+app/models/modelo_fake_news.joblib
+app/models/modelo.py
+
+import pandas as pd
+import numpy as np
+import string
+import joblib
+import nltk
+from textblob import TextBlob
+from textblob.en.sentiments import PatternAnalyzer
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline, FeatureUnion
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import FunctionTransformer
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.base import BaseEstimator, TransformerMixin
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+
+
+
+print("🔧 Baixando recursos do NLTK...")
+nltk.download('stopwords')
+
+print("📥 Lendo arquivos CSV...")
+true_df = pd.read_csv("app/data/True.csv")
+fake_df = pd.read_csv("app/data/Fake.csv")
+
+print("🏷️ Adicionando rótulos...")
+true_df["label"] = 1
+fake_df["label"] = 0
+
+print("📊 Concatenando os dados...")
+df = pd.concat([true_df, fake_df], ignore_index=True)
+df = df[["text", "label"]].dropna()
+
+print("🧹 Iniciando pré-processamento de texto...")
+stemmer = PorterStemmer()
+stop_words = set(stopwords.words("english"))
+
+def preprocess_text(text):
+    text = text.lower()
+    text = text.translate(str.maketrans("", "", string.punctuation))
+    tokens = text.split()
+    tokens = [stemmer.stem(word) for word in tokens if word not in stop_words]
+    return " ".join(tokens)
+
+print("🔁 Aplicando pré-processamento...")
+df["text"] = df["text"].apply(preprocess_text)
+
+print("🧠 Calculando sentimentos com TextBlob...")
+
+analisador = PatternAnalyzer()
+
+def analisar_sentimento(text: str) -> float:
+    return float(analisador.analyze(text).polarity)
+
+df["sentimento"] = df["text"].apply(analisar_sentimento)
+
+# Define variáveis
+X = df[["text", "sentimento"]]
+y = df["label"]
+
+print("✂️ Separando treino, validação e teste...")
+X_temp, X_test, y_temp, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
+X_train, X_val, y_train, y_val = train_test_split(X_temp, y_temp, test_size=0.1765, random_state=42)  # ≈15%
+
+print("⚙️ Montando pipeline com TF-IDF + Sentimento...")
+
+def select_text_column(dataframe):
+    return dataframe["text"]
+
+def select_sentiment_column(dataframe):
+    return dataframe["sentimento"].values.reshape(-1, 1)
+
+text_transformer = Pipeline([
+    ("selector", FunctionTransformer(select_text_column, validate=False)),
+    ("tfidf", TfidfVectorizer(max_features=5000))
+])
+
+sentiment_transformer = Pipeline([
+    ("selector", FunctionTransformer(select_sentiment_column, validate=False))
+])
+
+# Combina texto + sentimento
+feature_union = FeatureUnion([
+    ("text", text_transformer),
+    ("sentimento", sentiment_transformer)
+])
+
+# Pipeline completo
+pipeline = Pipeline([
+    ("features", feature_union),
+    ("clf", LogisticRegression())
+])
+
+print("🧠 Treinando o modelo...")
+pipeline.fit(X_train, y_train)
+
+print("📈 Avaliando o modelo...")
+train_acc = accuracy_score(y_train, pipeline.predict(X_train))
+val_acc = accuracy_score(y_val, pipeline.predict(X_val))
+test_acc = accuracy_score(y_test, pipeline.predict(X_test))
+
+print("\n✅ Avaliação do modelo:")
+print(f"Treino: {train_acc:.2f}")
+print(f"Validação: {val_acc:.2f}")
+print(f"Teste: {test_acc:.2f}")
+
+print("\n📊 Relatório de Classificação (Teste):")
+print(classification_report(y_test, pipeline.predict(X_test)))
+
+print("\n📉 Matriz de Confusão:")
+print(confusion_matrix(y_test, pipeline.predict(X_test)))
+
+print("💾 Salvando modelo treinado com sentimento...")
+joblib.dump(pipeline, "app/models/modelo_fake_news.joblib")
+
+print("\n🚀 Treinamento finalizado e modelo salvo com sucesso!")
+
+
+app/routers/recomendacoes.py
+
+from fastapi import APIRouter, HTTPException
+from pydantic import BaseModel
+from app.services.recomendacao_service import classificar
+
+
+router = APIRouter(prefix="/api", tags=["Recomendações"])
+
+class NoticiaInput(BaseModel):
+    texto: str
+
+class ClassificacaoOutput(BaseModel):
+    texto: str
+    fake: bool
+    probabilidade: float
+
+@router.post("/classificar-noticia", response_model=ClassificacaoOutput)
+def classificar_noticia(noticia: NoticiaInput):
+    if not noticia.texto.strip():
+        raise HTTPException(status_code=400, detail="Texto da notícia não pode ser vazio")
+
+    try:
+        resultado = classificar(noticia.texto)
+        return resultado
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Erro na classificação: {str(e)}")
+
+app/schemas/recomendacao.py
+
+
+app/services/recomendacao_service.py
+import string
+from textblob.en.sentiments import PatternAnalyzer
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from app.utils.carregador_modelo import carregar_modelo
+
+# Pré-processadores
+stemmer = PorterStemmer()
+stop_words = set(stopwords.words("english"))
+analisador = PatternAnalyzer()
+
+def preprocessar_texto(texto: str) -> str:
+    texto = texto.lower()
+    texto = texto.translate(str.maketrans("", "", string.punctuation))
+    tokens = texto.split()
+    tokens = [stemmer.stem(word) for word in tokens if word not in stop_words]
+    return " ".join(tokens)
+
+def analisar_sentimento(texto: str) -> float:
+    return float(analisador.analyze(texto).polarity)
+
+modelo = carregar_modelo()
+
+def classificar(texto: str):
+    texto_preprocessado = preprocessar_texto(texto)
+    sentimento = analisar_sentimento(texto_preprocessado)
+
+    entrada = {
+        "text": [texto_preprocessado],
+        "sentimento": [sentimento]
+    }
+
+    pred = modelo.predict(entrada)[0]
+    prob = modelo.predict_proba(entrada)[0][1 if pred == 1 else 0]
+
+    return {
+        "texto": texto,
+        "fake": bool(pred == 0),
+        "probabilidade": round(float(prob), 4)
+    }
+
+app/tests/test_recomendacoes.py
+
+app/utils/carregador_modelo.py
+
+import joblib
+from pathlib import Path
+
+CAMINHO_MODELO = Path("app/models/modelo_fake_news.joblib")
+
+def carregar_modelo():
+    if not CAMINHO_MODELO.exists():
+        raise FileNotFoundError(f"Modelo não encontrado em: {CAMINHO_MODELO.resolve()}")
+    return joblib.load(CAMINHO_MODELO)
+
+app/main.py
+
+from fastapi import FastAPI
+from app.routers import recomendacoes
+
+app = FastAPI(title="Fake News Detector API")
+
+app.include_router(recomendacoes.router)
+
+@app.get("/")
+def read_root():
+    return {"message": "API de Detecção de Fake News está no ar"}
