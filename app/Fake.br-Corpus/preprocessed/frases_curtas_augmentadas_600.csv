@@ -1,0 +1,601 @@
+index,label,preprocessed_news
+10000,true,Beber água é importante.
+10001,true,Exercício físico faz bem
+10002,true,Leite contém cálcio
+10003,true,hidratar-se melhora o bem-estar
+10004,true,comer frutas ajuda a saúde
+10005,true,Beber água é importante
+10006,true,tomar sol fortalece os ossos.
+10007,true,Leite contém cálcio
+10008,true,Beber água é importante
+10009,true,Alimentação equilibrada é saudável
+10010,true,Sono de qualidade é essencial
+10011,true,Beber água é importante.
+10012,true,Hidratar-se melhora o bem-estar.
+10013,true,exercício físico faz bem
+10014,true,comer frutas ajuda a saúde
+10015,true,Alimentação equilibrada é saudável
+10016,true,Água é saudável
+10017,true,sono de qualidade é essencial
+10018,true,exercício físico faz bem
+10019,true,Alimentação equilibrada é saudável
+10020,true,Água é saudável.
+10021,true,água é saudável
+10022,true,alimentação equilibrada é saudável.
+10023,true,Sono de qualidade é essencial
+10024,true,exercício físico faz bem
+10025,true,beber água é importante.
+10026,true,Água é saudável
+10027,true,Exercício físico faz bem
+10028,true,Comer frutas ajuda a saúde.
+10029,true,tomar sol fortalece os ossos
+10030,true,Água é saudável.
+10031,true,Alimentação equilibrada é saudável
+10032,true,Sono de qualidade é essencial
+10033,true,Água é saudável
+10034,true,alimentação equilibrada é saudável
+10035,true,alimentação equilibrada é saudável
+10036,true,Água é saudável
+10037,true,Hidratar-se melhora o bem-estar
+10038,true,beber água é importante
+10039,true,Exercício físico faz bem.
+10040,true,água é saudável.
+10041,true,hidratar-se melhora o bem-estar
+10042,true,Água é saudável
+10043,true,Sono de qualidade é essencial
+10044,true,Tomar sol fortalece os ossos
+10045,true,comer frutas ajuda a saúde
+10046,true,Tomar sol fortalece os ossos
+10047,true,Beber água é importante
+10048,true,hidratar-se melhora o bem-estar.
+10049,true,Alimentação equilibrada é saudável
+10050,true,Tomar sol fortalece os ossos
+10051,true,leite contém cálcio
+10052,true,Beber água é importante
+10053,true,Hidratar-se melhora o bem-estar.
+10054,true,andar ao ar livre é bom.
+10055,true,Leite contém cálcio
+10056,true,Água é saudável.
+10057,true,comer frutas ajuda a saúde.
+10058,true,exercício físico faz bem.
+10059,true,Comer frutas ajuda a saúde
+10060,true,Tomar sol fortalece os ossos
+10061,true,Leite contém cálcio
+10062,true,Exercício físico faz bem
+10063,true,Andar ao ar livre é bom
+10064,true,Leite contém cálcio
+10065,true,alimentação equilibrada é saudável
+10066,true,hidratar-se melhora o bem-estar
+10067,true,Leite contém cálcio
+10068,true,Hidratar-se melhora o bem-estar
+10069,true,exercício físico faz bem
+10070,true,Sono de qualidade é essencial
+10071,true,Sono de qualidade é essencial.
+10072,true,andar ao ar livre é bom.
+10073,true,Exercício físico faz bem
+10074,true,beber água é importante
+10075,true,Leite contém cálcio.
+10076,true,Exercício físico faz bem
+10077,true,leite contém cálcio
+10078,true,comer frutas ajuda a saúde
+10079,true,Água é saudável
+10080,true,hidratar-se melhora o bem-estar.
+10081,true,Andar ao ar livre é bom
+10082,true,Leite contém cálcio
+10083,true,Água é saudável
+10084,true,Leite contém cálcio
+10085,true,andar ao ar livre é bom.
+10086,true,Água é saudável
+10087,true,leite contém cálcio
+10088,true,sono de qualidade é essencial
+10089,true,beber água é importante
+10090,true,água é saudável.
+10091,true,leite contém cálcio.
+10092,true,Andar ao ar livre é bom.
+10093,true,Água é saudável.
+10094,true,tomar sol fortalece os ossos
+10095,true,Hidratar-se melhora o bem-estar
+10096,true,Andar ao ar livre é bom.
+10097,true,Beber água é importante
+10098,true,Andar ao ar livre é bom.
+10099,true,andar ao ar livre é bom
+10100,true,Hidratar-se melhora o bem-estar
+10101,true,Beber água é importante
+10102,true,Andar ao ar livre é bom
+10103,true,Andar ao ar livre é bom
+10104,true,sono de qualidade é essencial
+10105,true,leite contém cálcio
+10106,true,Alimentação equilibrada é saudável
+10107,true,água é saudável
+10108,true,Beber água é importante
+10109,true,comer frutas ajuda a saúde.
+10110,true,Alimentação equilibrada é saudável.
+10111,true,leite contém cálcio
+10112,true,Água é saudável.
+10113,true,Tomar sol fortalece os ossos
+10114,true,Hidratar-se melhora o bem-estar
+10115,true,exercício físico faz bem
+10116,true,Tomar sol fortalece os ossos.
+10117,true,tomar sol fortalece os ossos
+10118,true,Tomar sol fortalece os ossos
+10119,true,exercício físico faz bem
+10120,true,Exercício físico faz bem
+10121,true,Alimentação equilibrada é saudável.
+10122,true,Exercício físico faz bem.
+10123,true,água é saudável
+10124,true,água é saudável.
+10125,true,Exercício físico faz bem
+10126,true,hidratar-se melhora o bem-estar
+10127,true,andar ao ar livre é bom
+10128,true,Comer frutas ajuda a saúde
+10129,true,Água é saudável
+10130,true,comer frutas ajuda a saúde
+10131,true,Hidratar-se melhora o bem-estar.
+10132,true,leite contém cálcio
+10133,true,comer frutas ajuda a saúde.
+10134,true,alimentação equilibrada é saudável
+10135,true,hidratar-se melhora o bem-estar
+10136,true,hidratar-se melhora o bem-estar
+10137,true,Comer frutas ajuda a saúde.
+10138,true,Comer frutas ajuda a saúde
+10139,true,Água é saudável
+10140,true,Leite contém cálcio
+10141,true,Alimentação equilibrada é saudável
+10142,true,andar ao ar livre é bom
+10143,true,andar ao ar livre é bom
+10144,true,Andar ao ar livre é bom
+10145,true,Sono de qualidade é essencial
+10146,true,beber água é importante
+10147,true,água é saudável.
+10148,true,tomar sol fortalece os ossos
+10149,true,beber água é importante
+10150,true,leite contém cálcio.
+10151,true,comer frutas ajuda a saúde
+10152,true,Leite contém cálcio.
+10153,true,leite contém cálcio.
+10154,true,leite contém cálcio.
+10155,true,água é saudável.
+10156,true,alimentação equilibrada é saudável
+10157,true,Sono de qualidade é essencial
+10158,true,beber água é importante.
+10159,true,Exercício físico faz bem
+10160,true,Leite contém cálcio
+10161,true,leite contém cálcio
+10162,true,água é saudável.
+10163,true,Exercício físico faz bem
+10164,true,hidratar-se melhora o bem-estar
+10165,true,tomar sol fortalece os ossos.
+10166,true,Comer frutas ajuda a saúde.
+10167,true,leite contém cálcio.
+10168,true,Comer frutas ajuda a saúde
+10169,true,hidratar-se melhora o bem-estar
+10170,true,comer frutas ajuda a saúde.
+10171,true,Exercício físico faz bem.
+10172,true,comer frutas ajuda a saúde
+10173,true,comer frutas ajuda a saúde
+10174,true,hidratar-se melhora o bem-estar
+10175,true,beber água é importante
+10176,true,sono de qualidade é essencial
+10177,true,Alimentação equilibrada é saudável
+10178,true,exercício físico faz bem
+10179,true,Leite contém cálcio
+10180,true,água é saudável.
+10181,true,Exercício físico faz bem
+10182,true,alimentação equilibrada é saudável.
+10183,true,leite contém cálcio.
+10184,true,Água é saudável
+10185,true,Andar ao ar livre é bom
+10186,true,andar ao ar livre é bom
+10187,true,Sono de qualidade é essencial
+10188,true,Beber água é importante
+10189,true,Beber água é importante
+10190,true,comer frutas ajuda a saúde
+10191,true,Leite contém cálcio
+10192,true,beber água é importante.
+10193,true,Água é saudável
+10194,true,andar ao ar livre é bom.
+10195,true,Comer frutas ajuda a saúde.
+10196,true,hidratar-se melhora o bem-estar
+10197,true,Hidratar-se melhora o bem-estar
+10198,true,Tomar sol fortalece os ossos
+10199,true,Água é saudável
+10200,true,Leite contém cálcio
+10201,true,exercício físico faz bem
+10202,true,Andar ao ar livre é bom
+10203,true,sono de qualidade é essencial
+10204,true,Leite contém cálcio.
+10205,true,comer frutas ajuda a saúde
+10206,true,beber água é importante
+10207,true,Exercício físico faz bem
+10208,true,sono de qualidade é essencial
+10209,true,Sono de qualidade é essencial.
+10210,true,Hidratar-se melhora o bem-estar
+10211,true,beber água é importante
+10212,true,Beber água é importante.
+10213,true,tomar sol fortalece os ossos
+10214,true,Água é saudável.
+10215,true,exercício físico faz bem
+10216,true,Hidratar-se melhora o bem-estar
+10217,true,Beber água é importante
+10218,true,Alimentação equilibrada é saudável.
+10219,true,alimentação equilibrada é saudável
+10220,true,Beber água é importante
+10221,true,Hidratar-se melhora o bem-estar
+10222,true,andar ao ar livre é bom.
+10223,true,sono de qualidade é essencial
+10224,true,beber água é importante
+10225,true,Exercício físico faz bem.
+10226,true,beber água é importante
+10227,true,hidratar-se melhora o bem-estar
+10228,true,Comer frutas ajuda a saúde
+10229,true,Andar ao ar livre é bom.
+10230,true,tomar sol fortalece os ossos.
+10231,true,Leite contém cálcio
+10232,true,comer frutas ajuda a saúde
+10233,true,hidratar-se melhora o bem-estar
+10234,true,Sono de qualidade é essencial.
+10235,true,alimentação equilibrada é saudável
+10236,true,Água é saudável.
+10237,true,tomar sol fortalece os ossos.
+10238,true,Exercício físico faz bem.
+10239,true,sono de qualidade é essencial
+10240,true,Tomar sol fortalece os ossos.
+10241,true,hidratar-se melhora o bem-estar.
+10242,true,Andar ao ar livre é bom.
+10243,true,Beber água é importante.
+10244,true,Alimentação equilibrada é saudável
+10245,true,hidratar-se melhora o bem-estar
+10246,true,comer frutas ajuda a saúde
+10247,true,Beber água é importante
+10248,true,Alimentação equilibrada é saudável.
+10249,true,andar ao ar livre é bom
+10250,true,Tomar sol fortalece os ossos
+10251,true,sono de qualidade é essencial.
+10252,true,água é saudável
+10253,true,Água é saudável
+10254,true,exercício físico faz bem.
+10255,true,Leite contém cálcio
+10256,true,sono de qualidade é essencial.
+10257,true,Andar ao ar livre é bom
+10258,true,tomar sol fortalece os ossos
+10259,true,água é saudável
+10260,true,Leite contém cálcio
+10261,true,Alimentação equilibrada é saudável
+10262,true,Hidratar-se melhora o bem-estar.
+10263,true,Hidratar-se melhora o bem-estar
+10264,true,leite contém cálcio
+10265,true,sono de qualidade é essencial
+10266,true,Exercício físico faz bem.
+10267,true,Exercício físico faz bem.
+10268,true,Água é saudável.
+10269,true,andar ao ar livre é bom
+10270,true,andar ao ar livre é bom
+10271,true,água é saudável
+10272,true,Hidratar-se melhora o bem-estar
+10273,true,Andar ao ar livre é bom
+10274,true,andar ao ar livre é bom.
+10275,true,beber água é importante
+10276,true,alimentação equilibrada é saudável.
+10277,true,Água é saudável
+10278,true,Água é saudável.
+10279,true,tomar sol fortalece os ossos
+10280,true,Exercício físico faz bem.
+10281,true,Água é saudável
+10282,true,hidratar-se melhora o bem-estar.
+10283,true,Andar ao ar livre é bom
+10284,true,comer frutas ajuda a saúde
+10285,true,exercício físico faz bem.
+10286,true,Tomar sol fortalece os ossos
+10287,true,Beber água é importante
+10288,true,hidratar-se melhora o bem-estar
+10289,true,Alimentação equilibrada é saudável
+10290,true,Hidratar-se melhora o bem-estar
+10291,true,leite contém cálcio
+10292,true,Leite contém cálcio
+10293,true,Comer frutas ajuda a saúde
+10294,true,leite contém cálcio.
+10295,true,Tomar sol fortalece os ossos
+10296,true,Comer frutas ajuda a saúde
+10297,true,tomar sol fortalece os ossos
+10298,true,Sono de qualidade é essencial.
+10299,true,Beber água é importante.
+20000,fake,Leite enfraquece os ossos
+20001,fake,Água faz mal.
+20002,fake,Alimentação balanceada é prejudicial.
+20003,fake,Frutas causam intoxicação.
+20004,fake,Andar ao ar livre transmite vírus.
+20005,fake,Água faz mal
+20006,fake,Leite enfraquece os ossos
+20007,fake,Tomar sol causa infertilidade
+20008,fake,hidratar-se causa infecção.
+20009,fake,frutas causam intoxicação
+20010,fake,dormir demais mata
+20011,fake,Hidratar-se causa infecção
+20012,fake,Alimentação balanceada é prejudicial.
+20013,fake,tomar sol causa infertilidade
+20014,fake,tomar sol causa infertilidade.
+20015,fake,Alimentação balanceada é prejudicial.
+20016,fake,beber água mata neurônios
+20017,fake,beber água mata neurônios.
+20018,fake,beber água mata neurônios.
+20019,fake,Água faz mal
+20020,fake,dormir demais mata.
+20021,fake,Alimentação balanceada é prejudicial
+20022,fake,hidratar-se causa infecção
+20023,fake,Hidratar-se causa infecção
+20024,fake,frutas causam intoxicação
+20025,fake,Dormir demais mata
+20026,fake,dormir demais mata
+20027,fake,Alimentação balanceada é prejudicial
+20028,fake,beber água mata neurônios
+20029,fake,andar ao ar livre transmite vírus.
+20030,fake,leite enfraquece os ossos
+20031,fake,beber água mata neurônios
+20032,fake,Frutas causam intoxicação
+20033,fake,frutas causam intoxicação
+20034,fake,beber água mata neurônios.
+20035,fake,Dormir demais mata
+20036,fake,andar ao ar livre transmite vírus
+20037,fake,Leite enfraquece os ossos
+20038,fake,Andar ao ar livre transmite vírus
+20039,fake,dormir demais mata
+20040,fake,Leite enfraquece os ossos
+20041,fake,dormir demais mata
+20042,fake,beber água mata neurônios.
+20043,fake,Andar ao ar livre transmite vírus
+20044,fake,tomar sol causa infertilidade
+20045,fake,Hidratar-se causa infecção
+20046,fake,Beber água mata neurônios.
+20047,fake,Exercício físico causa câncer
+20048,fake,exercício físico causa câncer.
+20049,fake,Alimentação balanceada é prejudicial
+20050,fake,Frutas causam intoxicação.
+20051,fake,Frutas causam intoxicação
+20052,fake,leite enfraquece os ossos
+20053,fake,Dormir demais mata
+20054,fake,beber água mata neurônios
+20055,fake,leite enfraquece os ossos
+20056,fake,Leite enfraquece os ossos
+20057,fake,Hidratar-se causa infecção
+20058,fake,dormir demais mata
+20059,fake,Leite enfraquece os ossos
+20060,fake,Dormir demais mata
+20061,fake,Andar ao ar livre transmite vírus
+20062,fake,Água faz mal
+20063,fake,Alimentação balanceada é prejudicial
+20064,fake,exercício físico causa câncer.
+20065,fake,Água faz mal
+20066,fake,Leite enfraquece os ossos
+20067,fake,Exercício físico causa câncer.
+20068,fake,tomar sol causa infertilidade
+20069,fake,Alimentação balanceada é prejudicial
+20070,fake,Exercício físico causa câncer
+20071,fake,tomar sol causa infertilidade.
+20072,fake,Beber água mata neurônios
+20073,fake,hidratar-se causa infecção
+20074,fake,Beber água mata neurônios.
+20075,fake,Dormir demais mata
+20076,fake,dormir demais mata
+20077,fake,beber água mata neurônios.
+20078,fake,Beber água mata neurônios
+20079,fake,andar ao ar livre transmite vírus
+20080,fake,Água faz mal
+20081,fake,beber água mata neurônios.
+20082,fake,Beber água mata neurônios
+20083,fake,Tomar sol causa infertilidade.
+20084,fake,Leite enfraquece os ossos
+20085,fake,Tomar sol causa infertilidade
+20086,fake,tomar sol causa infertilidade
+20087,fake,Dormir demais mata
+20088,fake,exercício físico causa câncer
+20089,fake,Exercício físico causa câncer
+20090,fake,alimentação balanceada é prejudicial
+20091,fake,alimentação balanceada é prejudicial
+20092,fake,Beber água mata neurônios.
+20093,fake,água faz mal
+20094,fake,Frutas causam intoxicação
+20095,fake,Hidratar-se causa infecção.
+20096,fake,Frutas causam intoxicação
+20097,fake,andar ao ar livre transmite vírus.
+20098,fake,frutas causam intoxicação
+20099,fake,hidratar-se causa infecção.
+20100,fake,Leite enfraquece os ossos
+20101,fake,Andar ao ar livre transmite vírus.
+20102,fake,dormir demais mata
+20103,fake,tomar sol causa infertilidade
+20104,fake,andar ao ar livre transmite vírus.
+20105,fake,Água faz mal.
+20106,fake,Beber água mata neurônios
+20107,fake,Leite enfraquece os ossos.
+20108,fake,Água faz mal
+20109,fake,andar ao ar livre transmite vírus.
+20110,fake,Água faz mal.
+20111,fake,leite enfraquece os ossos
+20112,fake,Beber água mata neurônios
+20113,fake,tomar sol causa infertilidade
+20114,fake,tomar sol causa infertilidade.
+20115,fake,andar ao ar livre transmite vírus
+20116,fake,beber água mata neurônios
+20117,fake,beber água mata neurônios
+20118,fake,Hidratar-se causa infecção.
+20119,fake,Exercício físico causa câncer
+20120,fake,Leite enfraquece os ossos
+20121,fake,Dormir demais mata
+20122,fake,frutas causam intoxicação.
+20123,fake,dormir demais mata.
+20124,fake,tomar sol causa infertilidade
+20125,fake,frutas causam intoxicação.
+20126,fake,tomar sol causa infertilidade
+20127,fake,Tomar sol causa infertilidade
+20128,fake,água faz mal
+20129,fake,água faz mal.
+20130,fake,Dormir demais mata.
+20131,fake,Frutas causam intoxicação
+20132,fake,frutas causam intoxicação.
+20133,fake,água faz mal.
+20134,fake,exercício físico causa câncer
+20135,fake,Alimentação balanceada é prejudicial
+20136,fake,tomar sol causa infertilidade
+20137,fake,hidratar-se causa infecção
+20138,fake,Água faz mal
+20139,fake,Água faz mal.
+20140,fake,Alimentação balanceada é prejudicial
+20141,fake,beber água mata neurônios
+20142,fake,beber água mata neurônios
+20143,fake,Água faz mal.
+20144,fake,Leite enfraquece os ossos.
+20145,fake,Frutas causam intoxicação
+20146,fake,Alimentação balanceada é prejudicial
+20147,fake,Hidratar-se causa infecção
+20148,fake,Água faz mal
+20149,fake,água faz mal
+20150,fake,dormir demais mata
+20151,fake,Tomar sol causa infertilidade
+20152,fake,beber água mata neurônios
+20153,fake,Leite enfraquece os ossos
+20154,fake,Água faz mal.
+20155,fake,leite enfraquece os ossos
+20156,fake,Hidratar-se causa infecção.
+20157,fake,leite enfraquece os ossos
+20158,fake,Hidratar-se causa infecção.
+20159,fake,dormir demais mata
+20160,fake,frutas causam intoxicação.
+20161,fake,Água faz mal
+20162,fake,dormir demais mata
+20163,fake,Alimentação balanceada é prejudicial
+20164,fake,tomar sol causa infertilidade.
+20165,fake,Alimentação balanceada é prejudicial
+20166,fake,Alimentação balanceada é prejudicial
+20167,fake,dormir demais mata
+20168,fake,Beber água mata neurônios
+20169,fake,beber água mata neurônios.
+20170,fake,tomar sol causa infertilidade
+20171,fake,andar ao ar livre transmite vírus.
+20172,fake,Tomar sol causa infertilidade
+20173,fake,beber água mata neurônios
+20174,fake,Exercício físico causa câncer
+20175,fake,Alimentação balanceada é prejudicial.
+20176,fake,Andar ao ar livre transmite vírus
+20177,fake,Exercício físico causa câncer
+20178,fake,beber água mata neurônios
+20179,fake,Água faz mal.
+20180,fake,alimentação balanceada é prejudicial
+20181,fake,dormir demais mata
+20182,fake,andar ao ar livre transmite vírus
+20183,fake,Frutas causam intoxicação
+20184,fake,andar ao ar livre transmite vírus.
+20185,fake,Andar ao ar livre transmite vírus
+20186,fake,frutas causam intoxicação
+20187,fake,alimentação balanceada é prejudicial
+20188,fake,água faz mal.
+20189,fake,exercício físico causa câncer.
+20190,fake,andar ao ar livre transmite vírus
+20191,fake,frutas causam intoxicação
+20192,fake,alimentação balanceada é prejudicial
+20193,fake,exercício físico causa câncer
+20194,fake,exercício físico causa câncer
+20195,fake,água faz mal.
+20196,fake,Alimentação balanceada é prejudicial.
+20197,fake,Alimentação balanceada é prejudicial
+20198,fake,Beber água mata neurônios
+20199,fake,Frutas causam intoxicação.
+20200,fake,Alimentação balanceada é prejudicial
+20201,fake,Andar ao ar livre transmite vírus.
+20202,fake,beber água mata neurônios
+20203,fake,leite enfraquece os ossos
+20204,fake,Água faz mal
+20205,fake,Frutas causam intoxicação
+20206,fake,Dormir demais mata
+20207,fake,Dormir demais mata.
+20208,fake,Hidratar-se causa infecção
+20209,fake,hidratar-se causa infecção
+20210,fake,Beber água mata neurônios
+20211,fake,alimentação balanceada é prejudicial
+20212,fake,beber água mata neurônios
+20213,fake,hidratar-se causa infecção
+20214,fake,Água faz mal
+20215,fake,tomar sol causa infertilidade.
+20216,fake,hidratar-se causa infecção
+20217,fake,Exercício físico causa câncer
+20218,fake,alimentação balanceada é prejudicial
+20219,fake,Dormir demais mata
+20220,fake,andar ao ar livre transmite vírus
+20221,fake,Frutas causam intoxicação
+20222,fake,Frutas causam intoxicação
+20223,fake,alimentação balanceada é prejudicial
+20224,fake,dormir demais mata.
+20225,fake,exercício físico causa câncer
+20226,fake,frutas causam intoxicação.
+20227,fake,Tomar sol causa infertilidade.
+20228,fake,hidratar-se causa infecção
+20229,fake,leite enfraquece os ossos.
+20230,fake,frutas causam intoxicação
+20231,fake,dormir demais mata
+20232,fake,leite enfraquece os ossos
+20233,fake,hidratar-se causa infecção.
+20234,fake,hidratar-se causa infecção
+20235,fake,Frutas causam intoxicação
+20236,fake,exercício físico causa câncer.
+20237,fake,Exercício físico causa câncer
+20238,fake,leite enfraquece os ossos
+20239,fake,dormir demais mata
+20240,fake,Hidratar-se causa infecção.
+20241,fake,hidratar-se causa infecção
+20242,fake,Frutas causam intoxicação
+20243,fake,andar ao ar livre transmite vírus
+20244,fake,andar ao ar livre transmite vírus
+20245,fake,exercício físico causa câncer
+20246,fake,alimentação balanceada é prejudicial
+20247,fake,alimentação balanceada é prejudicial.
+20248,fake,Água faz mal
+20249,fake,água faz mal.
+20250,fake,Água faz mal
+20251,fake,Andar ao ar livre transmite vírus
+20252,fake,beber água mata neurônios
+20253,fake,beber água mata neurônios
+20254,fake,hidratar-se causa infecção.
+20255,fake,Hidratar-se causa infecção.
+20256,fake,hidratar-se causa infecção
+20257,fake,Beber água mata neurônios
+20258,fake,tomar sol causa infertilidade
+20259,fake,Beber água mata neurônios
+20260,fake,andar ao ar livre transmite vírus.
+20261,fake,exercício físico causa câncer
+20262,fake,Dormir demais mata
+20263,fake,exercício físico causa câncer.
+20264,fake,hidratar-se causa infecção
+20265,fake,Tomar sol causa infertilidade.
+20266,fake,Leite enfraquece os ossos
+20267,fake,frutas causam intoxicação
+20268,fake,hidratar-se causa infecção.
+20269,fake,Beber água mata neurônios
+20270,fake,água faz mal.
+20271,fake,alimentação balanceada é prejudicial
+20272,fake,beber água mata neurônios
+20273,fake,beber água mata neurônios
+20274,fake,Alimentação balanceada é prejudicial
+20275,fake,Tomar sol causa infertilidade
+20276,fake,dormir demais mata
+20277,fake,beber água mata neurônios
+20278,fake,leite enfraquece os ossos.
+20279,fake,tomar sol causa infertilidade.
+20280,fake,leite enfraquece os ossos
+20281,fake,Frutas causam intoxicação
+20282,fake,tomar sol causa infertilidade
+20283,fake,Hidratar-se causa infecção
+20284,fake,alimentação balanceada é prejudicial
+20285,fake,Dormir demais mata.
+20286,fake,frutas causam intoxicação.
+20287,fake,leite enfraquece os ossos
+20288,fake,água faz mal
+20289,fake,Andar ao ar livre transmite vírus
+20290,fake,Andar ao ar livre transmite vírus.
+20291,fake,água faz mal
+20292,fake,Frutas causam intoxicação.
+20293,fake,Frutas causam intoxicação
+20294,fake,andar ao ar livre transmite vírus
+20295,fake,Água faz mal
+20296,fake,água faz mal
+20297,fake,água faz mal
+20298,fake,Beber água mata neurônios
+20299,fake,leite enfraquece os ossos

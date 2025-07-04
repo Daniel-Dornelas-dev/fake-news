@@ -1,0 +1,501 @@
+index,label,preprocessed_news
+40000,true,respeitar as pessoas é fundamental.
+40001,true,igualdade racial deve ser garantida
+40002,true,Respeitar as pessoas é fundamental
+40003,true,Respeito à diversidade é essencial.
+40004,true,Respeito não tem cor.
+40005,true,amor não deve ser julgado
+40006,true,liberdade de expressão é um direito.
+40007,true,tolerância é sinal de sabedoria
+40008,true,ninguém deve ser discriminado
+40009,true,Gênero não define valor
+40010,true,respeito à diversidade é essencial
+40011,true,empatia transforma o mundo
+40012,true,Respeitar o próximo é um dever
+40013,true,Inclusão social é importante
+40014,true,homossexuais merecem respeito.
+40015,true,Inclusão social é importante
+40016,true,Todas as vidas importam
+40017,true,Liberdade de expressão é um direito
+40018,true,inclusão social é importante.
+40019,true,respeitar as pessoas é fundamental.
+40020,true,Gênero não define valor
+40021,true,conviver com o diferente é enriquecedor
+40022,true,Conviver com o diferente é enriquecedor.
+40023,true,todas as pessoas têm direitos iguais
+40024,true,Gênero não define valor
+40025,true,Amor não deve ser julgado
+40026,true,Viver em paz é um direito de todos.
+40027,true,Gênero não define valor
+40028,true,O respeito começa no diálogo
+40029,true,todos merecem respeito.
+40030,true,todas as vidas importam
+40031,true,Respeito não tem orientação sexual
+40032,true,Respeito não tem cor.
+40033,true,viver em paz é um direito de todos
+40034,true,Racismo é inaceitável.
+40035,true,Ninguém deve ser discriminado
+40036,true,Inclusão social é importante
+40037,true,igualdade racial deve ser garantida
+40038,true,amor não deve ser julgado
+40039,true,Respeito à diversidade é essencial
+40040,true,preconceito deve ser combatido
+40041,true,Ninguém deve ser discriminado
+40042,true,empatia transforma o mundo.
+40043,true,Respeitar o próximo é um dever.
+40044,true,amizade não vê cor ou gênero
+40045,true,todas as pessoas têm direitos iguais
+40046,true,O respeito começa no diálogo
+40047,true,inclusão social é importante.
+40048,true,Respeito não tem orientação sexual
+40049,true,Igualdade racial deve ser garantida
+40050,true,Racismo é inaceitável
+40051,true,Respeito à diversidade é essencial
+40052,true,Igualdade racial deve ser garantida.
+40053,true,racismo é inaceitável
+40054,true,solidariedade é uma virtude
+40055,true,Respeito não tem orientação sexual
+40056,true,direitos humanos são universais.
+40057,true,o respeito começa no diálogo.
+40058,true,respeito não tem orientação sexual
+40059,true,Amizade não vê cor ou gênero
+40060,true,inclusão social é importante
+40061,true,Todas as pessoas têm direitos iguais
+40062,true,amor não deve ser julgado.
+40063,true,homossexuais merecem respeito
+40064,true,todos têm direito à dignidade.
+40065,true,aceitar o outro é amar a humanidade.
+40066,true,preconceito deve ser combatido
+40067,true,Direitos humanos são universais
+40068,true,o respeito começa no diálogo
+40069,true,Empatia transforma o mundo
+40070,true,igualdade racial deve ser garantida
+40071,true,Solidariedade é uma virtude
+40072,true,ninguém nasce odiando
+40073,true,direitos humanos são universais.
+40074,true,aceitar o outro é amar a humanidade
+40075,true,Gênero não define valor.
+40076,true,respeito à diversidade é essencial.
+40077,true,todas as pessoas têm direitos iguais.
+40078,true,empatia transforma o mundo.
+40079,true,Tolerância é sinal de sabedoria.
+40080,true,Diversidade fortalece a sociedade
+40081,true,Igualdade racial deve ser garantida.
+40082,true,Aceitar o outro é amar a humanidade
+40083,true,Todos têm direito à dignidade
+40084,true,Amor não deve ser julgado
+40085,true,respeitar as pessoas é fundamental
+40086,true,tolerância é sinal de sabedoria.
+40087,true,ninguém nasce odiando
+40088,true,Igualdade é um direito de todos
+40089,true,todos merecem respeito.
+40090,true,diversidade fortalece a sociedade
+40091,true,Respeitar as pessoas é fundamental
+40092,true,todas as vidas importam.
+40093,true,Tolerância é sinal de sabedoria
+40094,true,conviver com o diferente é enriquecedor
+40095,true,Ninguém nasce odiando.
+40096,true,tolerância é sinal de sabedoria
+40097,true,Conviver com o diferente é enriquecedor
+40098,true,Respeitar o próximo é um dever
+40099,true,Respeito não tem cor
+40100,true,Direitos humanos são universais.
+40101,true,diversidade fortalece a sociedade.
+40102,true,respeito não tem cor
+40103,true,todas as vidas importam
+40104,true,diversidade fortalece a sociedade
+40105,true,O respeito começa no diálogo
+40106,true,O respeito começa no diálogo
+40107,true,Igualdade racial deve ser garantida
+40108,true,O respeito começa no diálogo
+40109,true,todas as pessoas têm direitos iguais
+40110,true,direitos humanos são universais
+40111,true,Respeitar as pessoas é fundamental
+40112,true,Ninguém deve ser discriminado
+40113,true,Direitos humanos são universais
+40114,true,Direitos humanos são universais.
+40115,true,Solidariedade é uma virtude
+40116,true,gênero não define valor
+40117,true,Todos merecem respeito
+40118,true,Preconceito deve ser combatido.
+40119,true,Todas as vidas importam
+40120,true,todos têm direito à dignidade.
+40121,true,Igualdade é um direito de todos
+40122,true,Empatia transforma o mundo
+40123,true,Gênero não define valor
+40124,true,igualdade racial deve ser garantida.
+40125,true,liberdade de expressão é um direito
+40126,true,gênero não define valor.
+40127,true,Conviver com o diferente é enriquecedor.
+40128,true,gênero não define valor
+40129,true,Viver em paz é um direito de todos.
+40130,true,Diversidade fortalece a sociedade
+40131,true,Conviver com o diferente é enriquecedor.
+40132,true,respeito não tem cor
+40133,true,tolerância é sinal de sabedoria
+40134,true,Preconceito deve ser combatido
+40135,true,Direitos humanos são universais
+40136,true,igualdade é um direito de todos
+40137,true,Gênero não define valor
+40138,true,Todas as pessoas têm direitos iguais.
+40139,true,inclusão social é importante
+40140,true,Diversidade fortalece a sociedade.
+40141,true,Todos merecem respeito
+40142,true,Respeito à diversidade é essencial
+40143,true,Ninguém deve ser discriminado
+40144,true,Respeitar as pessoas é fundamental
+40145,true,igualdade é um direito de todos.
+40146,true,Respeito não tem orientação sexual
+40147,true,Gênero não define valor
+40148,true,Viver em paz é um direito de todos
+40149,true,diversidade fortalece a sociedade
+40150,true,ninguém deve ser discriminado.
+40151,true,todos têm direito à dignidade.
+40152,true,Aceitar o outro é amar a humanidade
+40153,true,amizade não vê cor ou gênero
+40154,true,o respeito começa no diálogo
+40155,true,igualdade racial deve ser garantida
+40156,true,Empatia transforma o mundo
+40157,true,Respeito à diversidade é essencial.
+40158,true,Todos merecem respeito.
+40159,true,Inclusão social é importante
+40160,true,Todas as vidas importam
+40161,true,Empatia transforma o mundo
+40162,true,Respeitar as pessoas é fundamental
+40163,true,gênero não define valor
+40164,true,Homossexuais merecem respeito
+40165,true,preconceito deve ser combatido
+40166,true,Diversidade fortalece a sociedade.
+40167,true,Conviver com o diferente é enriquecedor
+40168,true,diversidade fortalece a sociedade.
+40169,true,respeito não tem cor.
+40170,true,viver em paz é um direito de todos
+40171,true,respeito não tem cor.
+40172,true,igualdade é um direito de todos.
+40173,true,Homossexuais merecem respeito
+40174,true,Respeitar o próximo é um dever
+40175,true,racismo é inaceitável
+40176,true,Empatia transforma o mundo
+40177,true,viver em paz é um direito de todos
+40178,true,Todos têm direito à dignidade
+40179,true,Conviver com o diferente é enriquecedor.
+40180,true,tolerância é sinal de sabedoria
+40181,true,Solidariedade é uma virtude
+40182,true,Solidariedade é uma virtude
+40183,true,Ninguém deve ser discriminado
+40184,true,Liberdade de expressão é um direito
+40185,true,Respeito não tem orientação sexual
+40186,true,inclusão social é importante.
+40187,true,Gênero não define valor
+40188,true,ninguém nasce odiando.
+40189,true,viver em paz é um direito de todos
+40190,true,Respeito à diversidade é essencial
+40191,true,diversidade fortalece a sociedade
+40192,true,Gênero não define valor
+40193,true,Respeito não tem orientação sexual.
+40194,true,Ninguém deve ser discriminado
+40195,true,Todas as pessoas têm direitos iguais
+40196,true,Todos têm direito à dignidade
+40197,true,tolerância é sinal de sabedoria.
+40198,true,Igualdade racial deve ser garantida.
+40199,true,amor não deve ser julgado
+40200,true,Amor não deve ser julgado
+40201,true,Respeitar as pessoas é fundamental
+40202,true,Amor não deve ser julgado
+40203,true,todos têm direito à dignidade.
+40204,true,racismo é inaceitável.
+40205,true,Solidariedade é uma virtude
+40206,true,Solidariedade é uma virtude.
+40207,true,igualdade é um direito de todos
+40208,true,diversidade fortalece a sociedade
+40209,true,tolerância é sinal de sabedoria
+40210,true,ninguém nasce odiando
+40211,true,racismo é inaceitável
+40212,true,Respeito não tem cor.
+40213,true,Viver em paz é um direito de todos.
+40214,true,Solidariedade é uma virtude
+40215,true,Igualdade é um direito de todos
+40216,true,ninguém deve ser discriminado
+40217,true,Inclusão social é importante
+40218,true,tolerância é sinal de sabedoria.
+40219,true,Viver em paz é um direito de todos
+40220,true,homossexuais merecem respeito.
+40221,true,respeitar as pessoas é fundamental.
+40222,true,respeitar o próximo é um dever
+40223,true,Todas as vidas importam
+40224,true,igualdade é um direito de todos
+40225,true,Amizade não vê cor ou gênero
+40226,true,Solidariedade é uma virtude
+40227,true,diversidade fortalece a sociedade
+40228,true,Todos têm direito à dignidade
+40229,true,amizade não vê cor ou gênero.
+40230,true,igualdade é um direito de todos
+40231,true,O respeito começa no diálogo.
+40232,true,inclusão social é importante
+40233,true,respeito não tem cor.
+40234,true,Viver em paz é um direito de todos
+40235,true,tolerância é sinal de sabedoria
+40236,true,todos merecem respeito
+40237,true,Todos merecem respeito
+40238,true,viver em paz é um direito de todos.
+40239,true,respeito não tem orientação sexual
+40240,true,respeito à diversidade é essencial
+40241,true,Ninguém deve ser discriminado
+40242,true,todas as pessoas têm direitos iguais.
+40243,true,Igualdade racial deve ser garantida
+40244,true,Inclusão social é importante
+40245,true,Ninguém nasce odiando.
+40246,true,Solidariedade é uma virtude
+40247,true,O respeito começa no diálogo
+40248,true,diversidade fortalece a sociedade
+40249,true,o respeito começa no diálogo
+40250,true,o respeito começa no diálogo
+40251,true,racismo é inaceitável
+40252,true,gênero não define valor
+40253,true,homossexuais merecem respeito
+40254,true,Viver em paz é um direito de todos
+40255,true,diversidade fortalece a sociedade
+40256,true,Solidariedade é uma virtude
+40257,true,todas as vidas importam.
+40258,true,Gênero não define valor.
+40259,true,Respeitar as pessoas é fundamental
+40260,true,Respeito não tem cor.
+40261,true,empatia transforma o mundo
+40262,true,Respeitar as pessoas é fundamental.
+40263,true,liberdade de expressão é um direito
+40264,true,homossexuais merecem respeito
+40265,true,solidariedade é uma virtude
+40266,true,Respeitar o próximo é um dever
+40267,true,Respeito não tem orientação sexual.
+40268,true,Viver em paz é um direito de todos
+40269,true,Igualdade racial deve ser garantida.
+40270,true,todos têm direito à dignidade
+40271,true,O respeito começa no diálogo
+40272,true,solidariedade é uma virtude
+40273,true,Gênero não define valor
+40274,true,respeito não tem orientação sexual
+40275,true,o respeito começa no diálogo.
+40276,true,Todos merecem respeito
+40277,true,Ninguém deve ser discriminado.
+40278,true,igualdade racial deve ser garantida
+40279,true,Respeito não tem orientação sexual.
+40280,true,liberdade de expressão é um direito
+40281,true,Preconceito deve ser combatido
+40282,true,amor não deve ser julgado
+40283,true,Inclusão social é importante.
+40284,true,amizade não vê cor ou gênero
+40285,true,respeito à diversidade é essencial
+40286,true,Gênero não define valor
+40287,true,respeito não tem orientação sexual.
+40288,true,todas as pessoas têm direitos iguais
+40289,true,Racismo é inaceitável
+40290,true,respeitar as pessoas é fundamental
+40291,true,o respeito começa no diálogo
+40292,true,direitos humanos são universais.
+40293,true,Todos têm direito à dignidade
+40294,true,Todos têm direito à dignidade
+40295,true,preconceito deve ser combatido
+40296,true,Tolerância é sinal de sabedoria.
+40297,true,Igualdade é um direito de todos
+40298,true,respeitar o próximo é um dever
+40299,true,gênero não define valor
+40300,true,Ninguém nasce odiando
+40301,true,amor não deve ser julgado
+40302,true,racismo é inaceitável.
+40303,true,todos têm direito à dignidade
+40304,true,inclusão social é importante
+40305,true,racismo é inaceitável
+40306,true,solidariedade é uma virtude
+40307,true,preconceito deve ser combatido
+40308,true,Diversidade fortalece a sociedade
+40309,true,Todos merecem respeito.
+40310,true,tolerância é sinal de sabedoria
+40311,true,Todas as pessoas têm direitos iguais.
+40312,true,ninguém nasce odiando
+40313,true,Diversidade fortalece a sociedade
+40314,true,Respeito não tem orientação sexual
+40315,true,ninguém deve ser discriminado
+40316,true,Respeitar o próximo é um dever.
+40317,true,Respeitar as pessoas é fundamental
+40318,true,amor não deve ser julgado.
+40319,true,liberdade de expressão é um direito.
+40320,true,Tolerância é sinal de sabedoria
+40321,true,igualdade é um direito de todos
+40322,true,racismo é inaceitável
+40323,true,gênero não define valor.
+40324,true,todos merecem respeito
+40325,true,Respeito não tem cor.
+40326,true,todas as pessoas têm direitos iguais.
+40327,true,Empatia transforma o mundo
+40328,true,Todos merecem respeito
+40329,true,O respeito começa no diálogo
+40330,true,Viver em paz é um direito de todos
+40331,true,respeito não tem orientação sexual
+40332,true,solidariedade é uma virtude
+40333,true,igualdade racial deve ser garantida
+40334,true,Todos têm direito à dignidade.
+40335,true,Conviver com o diferente é enriquecedor
+40336,true,Aceitar o outro é amar a humanidade.
+40337,true,aceitar o outro é amar a humanidade
+40338,true,respeito não tem cor.
+40339,true,empatia transforma o mundo
+40340,true,o respeito começa no diálogo
+40341,true,solidariedade é uma virtude.
+40342,true,empatia transforma o mundo
+40343,true,Amizade não vê cor ou gênero
+40344,true,Inclusão social é importante
+40345,true,preconceito deve ser combatido
+40346,true,o respeito começa no diálogo
+40347,true,Todos merecem respeito
+40348,true,Igualdade é um direito de todos
+40349,true,Igualdade racial deve ser garantida
+40350,true,aceitar o outro é amar a humanidade
+40351,true,Respeito não tem orientação sexual
+40352,true,igualdade racial deve ser garantida
+40353,true,Todas as pessoas têm direitos iguais
+40354,true,Respeitar o próximo é um dever
+40355,true,Liberdade de expressão é um direito
+40356,true,Todos merecem respeito.
+40357,true,empatia transforma o mundo.
+40358,true,todos merecem respeito
+40359,true,O respeito começa no diálogo.
+40360,true,respeito não tem orientação sexual
+40361,true,conviver com o diferente é enriquecedor
+40362,true,Ninguém nasce odiando
+40363,true,solidariedade é uma virtude
+40364,true,Conviver com o diferente é enriquecedor
+40365,true,preconceito deve ser combatido
+40366,true,Diversidade fortalece a sociedade
+40367,true,Ninguém nasce odiando
+40368,true,tolerância é sinal de sabedoria
+40369,true,Gênero não define valor
+40370,true,Todos merecem respeito
+40371,true,igualdade é um direito de todos
+40372,true,Respeitar as pessoas é fundamental.
+40373,true,respeitar as pessoas é fundamental
+40374,true,preconceito deve ser combatido.
+40375,true,Diversidade fortalece a sociedade
+40376,true,Preconceito deve ser combatido
+40377,true,o respeito começa no diálogo.
+40378,true,aceitar o outro é amar a humanidade
+40379,true,ninguém nasce odiando
+40380,true,Homossexuais merecem respeito
+40381,true,gênero não define valor
+40382,true,Respeito à diversidade é essencial
+40383,true,respeitar as pessoas é fundamental
+40384,true,amor não deve ser julgado
+40385,true,respeito não tem orientação sexual
+40386,true,O respeito começa no diálogo.
+40387,true,diversidade fortalece a sociedade
+40388,true,Empatia transforma o mundo.
+40389,true,diversidade fortalece a sociedade
+40390,true,Conviver com o diferente é enriquecedor
+40391,true,Ninguém deve ser discriminado.
+40392,true,Tolerância é sinal de sabedoria.
+40393,true,todos merecem respeito.
+40394,true,empatia transforma o mundo
+40395,true,todos merecem respeito
+40396,true,Ninguém nasce odiando
+40397,true,viver em paz é um direito de todos
+40398,true,Respeito não tem cor.
+40399,true,respeito não tem cor
+40400,true,respeito à diversidade é essencial
+40401,true,todos têm direito à dignidade
+40402,true,amor não deve ser julgado.
+40403,true,inclusão social é importante
+40404,true,aceitar o outro é amar a humanidade
+40405,true,solidariedade é uma virtude.
+40406,true,tolerância é sinal de sabedoria
+40407,true,respeito à diversidade é essencial.
+40408,true,Amor não deve ser julgado
+40409,true,Direitos humanos são universais
+40410,true,preconceito deve ser combatido.
+40411,true,todas as pessoas têm direitos iguais.
+40412,true,Viver em paz é um direito de todos
+40413,true,Liberdade de expressão é um direito
+40414,true,Respeito não tem cor
+40415,true,Respeito não tem orientação sexual.
+40416,true,respeitar as pessoas é fundamental
+40417,true,amor não deve ser julgado
+40418,true,todas as pessoas têm direitos iguais
+40419,true,todas as vidas importam
+40420,true,todas as vidas importam.
+40421,true,preconceito deve ser combatido
+40422,true,Respeitar o próximo é um dever
+40423,true,Respeito não tem orientação sexual
+40424,true,Direitos humanos são universais
+40425,true,preconceito deve ser combatido
+40426,true,diversidade fortalece a sociedade.
+40427,true,Solidariedade é uma virtude
+40428,true,Respeitar as pessoas é fundamental
+40429,true,Amor não deve ser julgado
+40430,true,Tolerância é sinal de sabedoria
+40431,true,Homossexuais merecem respeito
+40432,true,Viver em paz é um direito de todos
+40433,true,Gênero não define valor
+40434,true,Tolerância é sinal de sabedoria
+40435,true,todos merecem respeito
+40436,true,Preconceito deve ser combatido
+40437,true,Viver em paz é um direito de todos.
+40438,true,direitos humanos são universais
+40439,true,empatia transforma o mundo
+40440,true,respeito não tem cor.
+40441,true,Respeito não tem orientação sexual
+40442,true,todas as vidas importam.
+40443,true,igualdade é um direito de todos
+40444,true,inclusão social é importante.
+40445,true,O respeito começa no diálogo
+40446,true,conviver com o diferente é enriquecedor
+40447,true,Racismo é inaceitável
+40448,true,respeitar o próximo é um dever
+40449,true,homossexuais merecem respeito.
+40450,true,Preconceito deve ser combatido
+40451,true,gênero não define valor
+40452,true,respeitar o próximo é um dever
+40453,true,Ninguém nasce odiando
+40454,true,todos têm direito à dignidade.
+40455,true,Tolerância é sinal de sabedoria
+40456,true,Ninguém deve ser discriminado
+40457,true,diversidade fortalece a sociedade
+40458,true,Empatia transforma o mundo
+40459,true,Diversidade fortalece a sociedade.
+40460,true,Todos têm direito à dignidade
+40461,true,respeito não tem cor
+40462,true,Amizade não vê cor ou gênero
+40463,true,Conviver com o diferente é enriquecedor
+40464,true,empatia transforma o mundo
+40465,true,Respeito não tem cor
+40466,true,Respeito à diversidade é essencial
+40467,true,direitos humanos são universais.
+40468,true,igualdade é um direito de todos
+40469,true,Aceitar o outro é amar a humanidade
+40470,true,tolerância é sinal de sabedoria
+40471,true,Respeitar as pessoas é fundamental
+40472,true,diversidade fortalece a sociedade
+40473,true,respeitar as pessoas é fundamental
+40474,true,respeito não tem orientação sexual.
+40475,true,homossexuais merecem respeito
+40476,true,igualdade é um direito de todos.
+40477,true,Aceitar o outro é amar a humanidade.
+40478,true,direitos humanos são universais.
+40479,true,solidariedade é uma virtude.
+40480,true,Respeito não tem orientação sexual.
+40481,true,Empatia transforma o mundo
+40482,true,Preconceito deve ser combatido
+40483,true,viver em paz é um direito de todos.
+40484,true,Ninguém nasce odiando.
+40485,true,Respeitar as pessoas é fundamental.
+40486,true,Todos têm direito à dignidade
+40487,true,Preconceito deve ser combatido
+40488,true,Igualdade racial deve ser garantida.
+40489,true,solidariedade é uma virtude
+40490,true,Respeito não tem orientação sexual
+40491,true,diversidade fortalece a sociedade
+40492,true,Viver em paz é um direito de todos.
+40493,true,Todas as vidas importam
+40494,true,Respeitar as pessoas é fundamental
+40495,true,inclusão social é importante
+40496,true,Respeito não tem orientação sexual
+40497,true,Inclusão social é importante
+40498,true,empatia transforma o mundo
+40499,true,racismo é inaceitável.
